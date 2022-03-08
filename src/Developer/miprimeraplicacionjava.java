@@ -4,6 +4,8 @@ public class miprimeraplicacionjava {
     public static void main(String[] args) {
         String nombreCompleto, direccion, estadoCivil;
         int edad;
+        int edad1 = 34;
+        
         double gastosDiarios;
         char genero;
         boolean poseeVehiculo;
